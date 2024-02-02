@@ -1,0 +1,16 @@
+{
+  "name": "swissborg-exercise-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "dimitrios papageorgiou",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.41.1",
+    "playwright": "^1.41.1"
+  }
+}
